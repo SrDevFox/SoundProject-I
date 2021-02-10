@@ -1,0 +1,4700 @@
+fileFormatVersion: 2
+guid: 4761a311a8792804584b42cb67fd3e64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7289102019144514854
+    second: basic_nature_0
+  - first:
+      213: -7390847311065890505
+    second: basic_nature_1
+  - first:
+      213: 4721338459815607239
+    second: basic_nature_2
+  - first:
+      213: -6153761873733096695
+    second: basic_nature_3
+  - first:
+      213: -8031414567730454850
+    second: basic_nature_4
+  - first:
+      213: 5030829432529351536
+    second: basic_nature_5
+  - first:
+      213: -885115605148874551
+    second: basic_nature_6
+  - first:
+      213: -3156877011925398093
+    second: basic_nature_7
+  - first:
+      213: 6242393678470297120
+    second: basic_nature_8
+  - first:
+      213: -2276207194131607525
+    second: basic_nature_9
+  - first:
+      213: 1529782065329568565
+    second: basic_nature_10
+  - first:
+      213: -2334473280556216321
+    second: basic_nature_11
+  - first:
+      213: 5800618086425061939
+    second: basic_nature_12
+  - first:
+      213: -1235855162960780246
+    second: basic_nature_13
+  - first:
+      213: -8470399370043097331
+    second: basic_nature_14
+  - first:
+      213: -5744738908945613536
+    second: basic_nature_15
+  - first:
+      213: -6155090782340372837
+    second: basic_nature_16
+  - first:
+      213: -1048475829383118033
+    second: basic_nature_17
+  - first:
+      213: -1179806308101025233
+    second: basic_nature_18
+  - first:
+      213: 2565282837942677877
+    second: basic_nature_19
+  - first:
+      213: -1182653543557530922
+    second: basic_nature_20
+  - first:
+      213: -9126055935090206722
+    second: basic_nature_21
+  - first:
+      213: -1430980667577137079
+    second: basic_nature_22
+  - first:
+      213: 8528083611489108417
+    second: basic_nature_23
+  - first:
+      213: 1835589312187019513
+    second: basic_nature_24
+  - first:
+      213: 7230481691458584573
+    second: basic_nature_25
+  - first:
+      213: 1724246606929997233
+    second: basic_nature_26
+  - first:
+      213: -9192603820042336580
+    second: basic_nature_27
+  - first:
+      213: -4647401122765418484
+    second: basic_nature_28
+  - first:
+      213: 9067801605026440075
+    second: basic_nature_29
+  - first:
+      213: -7559156333121355093
+    second: basic_nature_30
+  - first:
+      213: 7084531606546148567
+    second: basic_nature_31
+  - first:
+      213: -6573866678088090145
+    second: basic_nature_32
+  - first:
+      213: -1220393534381826508
+    second: basic_nature_33
+  - first:
+      213: 5292424209990666189
+    second: basic_nature_34
+  - first:
+      213: 6776284291605633301
+    second: basic_nature_35
+  - first:
+      213: 5554789581953516834
+    second: basic_nature_36
+  - first:
+      213: -4976975277298492970
+    second: basic_nature_37
+  - first:
+      213: 8695312710990385141
+    second: basic_nature_38
+  - first:
+      213: -3611873893514391099
+    second: basic_nature_39
+  - first:
+      213: 5538260607259999961
+    second: basic_nature_40
+  - first:
+      213: -6054899097606270300
+    second: basic_nature_41
+  - first:
+      213: -8163826582694952191
+    second: basic_nature_42
+  - first:
+      213: -4823851420891596749
+    second: basic_nature_43
+  - first:
+      213: -3911487000751771906
+    second: basic_nature_44
+  - first:
+      213: -6482164232997150946
+    second: basic_nature_45
+  - first:
+      213: -4411910169028006947
+    second: basic_nature_46
+  - first:
+      213: 7772781420801301544
+    second: basic_nature_47
+  - first:
+      213: -1219556952209284321
+    second: basic_nature_48
+  - first:
+      213: 8503121910024344964
+    second: basic_nature_49
+  - first:
+      213: 1687049372682642084
+    second: basic_nature_50
+  - first:
+      213: 2681935715579348821
+    second: basic_nature_51
+  - first:
+      213: 3327643731464760832
+    second: basic_nature_52
+  - first:
+      213: -4033393897156106583
+    second: basic_nature_53
+  - first:
+      213: -8836670683694639155
+    second: basic_nature_54
+  - first:
+      213: 2035509020009095854
+    second: basic_nature_55
+  - first:
+      213: -4304596788323230636
+    second: basic_nature_56
+  - first:
+      213: -4102541298125275272
+    second: basic_nature_57
+  - first:
+      213: -4146705169030257556
+    second: basic_nature_58
+  - first:
+      213: 5399224235154231305
+    second: basic_nature_59
+  - first:
+      213: -2889958970480088856
+    second: basic_nature_60
+  - first:
+      213: -8319763000473447176
+    second: basic_nature_61
+  - first:
+      213: 8068194206007811060
+    second: basic_nature_62
+  - first:
+      213: -6571277688025583426
+    second: basic_nature_63
+  - first:
+      213: 6868732261759135660
+    second: basic_nature_64
+  - first:
+      213: -3435963014145908502
+    second: basic_nature_65
+  - first:
+      213: -2409733249916928868
+    second: basic_nature_66
+  - first:
+      213: 4851054841734044787
+    second: basic_nature_67
+  - first:
+      213: 9168215896727324967
+    second: basic_nature_68
+  - first:
+      213: -9160807730411855168
+    second: basic_nature_69
+  - first:
+      213: -5748756401613273897
+    second: basic_nature_70
+  - first:
+      213: -6199744530392864651
+    second: basic_nature_71
+  - first:
+      213: 8566906272703479421
+    second: basic_nature_72
+  - first:
+      213: -2325324746514949446
+    second: basic_nature_73
+  - first:
+      213: 5250633454728387504
+    second: basic_nature_74
+  - first:
+      213: 8364778193515205036
+    second: basic_nature_75
+  - first:
+      213: -3944674050247538094
+    second: basic_nature_76
+  - first:
+      213: 440696956327873800
+    second: basic_nature_77
+  - first:
+      213: 5660165472573570909
+    second: basic_nature_78
+  - first:
+      213: -5511233725492006917
+    second: basic_nature_79
+  - first:
+      213: -8500750053136910186
+    second: basic_nature_80
+  - first:
+      213: -3760117622075355096
+    second: basic_nature_81
+  - first:
+      213: 5282967601117859766
+    second: basic_nature_82
+  - first:
+      213: -543808087602768023
+    second: basic_nature_83
+  - first:
+      213: -6753560345685596446
+    second: basic_nature_84
+  - first:
+      213: -2206828098271726359
+    second: basic_nature_85
+  - first:
+      213: 8563669387328184534
+    second: basic_nature_86
+  - first:
+      213: -2820920835504561064
+    second: basic_nature_87
+  - first:
+      213: 5742350646126726240
+    second: basic_nature_88
+  - first:
+      213: 521031147000297301
+    second: basic_nature_89
+  - first:
+      213: 2332814381364024062
+    second: basic_nature_90
+  - first:
+      213: 4152714357533767767
+    second: basic_nature_91
+  - first:
+      213: 6223834700160576473
+    second: basic_nature_92
+  - first:
+      213: -1556533262948635529
+    second: basic_nature_93
+  - first:
+      213: -5987854075718577093
+    second: basic_nature_94
+  - first:
+      213: 6723237159542442434
+    second: basic_nature_95
+  - first:
+      213: 1094849456982183693
+    second: basic_nature_96
+  - first:
+      213: -3285231330504138278
+    second: basic_nature_0
+  - first:
+      213: 4465841118994705390
+    second: basic_nature_1
+  - first:
+      213: -7196765745571249425
+    second: basic_nature_2
+  - first:
+      213: -585818481008222903
+    second: basic_nature_3
+  - first:
+      213: 4580230300871603663
+    second: basic_nature_4
+  - first:
+      213: 4108201500180610763
+    second: basic_nature_5
+  - first:
+      213: -1930900675736485073
+    second: basic_nature_6
+  - first:
+      213: -5542770353160135191
+    second: basic_nature_7
+  - first:
+      213: -7143652333953462796
+    second: basic_nature_8
+  - first:
+      213: -471903734112120007
+    second: basic_nature_9
+  - first:
+      213: 3013940875173839741
+    second: basic_nature_10
+  - first:
+      213: 7083564678383173186
+    second: basic_nature_11
+  - first:
+      213: 8116781446785879794
+    second: basic_nature_12
+  - first:
+      213: 2889203724135223616
+    second: basic_nature_13
+  - first:
+      213: -7906564661279498511
+    second: basic_nature_14
+  - first:
+      213: -5289917767289698666
+    second: basic_nature_15
+  - first:
+      213: -7003931927735280104
+    second: basic_nature_16
+  - first:
+      213: -4383053326958790424
+    second: basic_nature_17
+  - first:
+      213: 3813823373395526927
+    second: basic_nature_18
+  - first:
+      213: -2629922940280619150
+    second: basic_nature_19
+  - first:
+      213: -5011009253536199473
+    second: basic_nature_20
+  - first:
+      213: 5261931162951364153
+    second: basic_nature_21
+  - first:
+      213: 1057856303288102318
+    second: basic_nature_22
+  - first:
+      213: -5337172690065194290
+    second: basic_nature_23
+  - first:
+      213: 6530294894988400576
+    second: basic_nature_24
+  - first:
+      213: -1890872767446251575
+    second: basic_nature_25
+  - first:
+      213: 2860476128066438538
+    second: basic_nature_26
+  - first:
+      213: 5114712213068053994
+    second: basic_nature_27
+  - first:
+      213: -2636606166083314485
+    second: basic_nature_28
+  - first:
+      213: 7984918329775656628
+    second: basic_nature_29
+  - first:
+      213: 2771114676432121565
+    second: basic_nature_30
+  - first:
+      213: -2709572777415836660
+    second: basic_nature_31
+  - first:
+      213: 6659196854068678817
+    second: basic_nature_32
+  - first:
+      213: -2451836167800230153
+    second: basic_nature_33
+  - first:
+      213: 4673710586982410326
+    second: basic_nature_34
+  - first:
+      213: -141377102497457628
+    second: basic_nature_35
+  - first:
+      213: -7181565908484195123
+    second: basic_nature_36
+  - first:
+      213: -8425398183735466176
+    second: basic_nature_37
+  - first:
+      213: 7636010719202481379
+    second: basic_nature_38
+  - first:
+      213: 7616489069229873636
+    second: basic_nature_39
+  - first:
+      213: 3492176483799378680
+    second: basic_nature_40
+  - first:
+      213: 8343179505405926859
+    second: basic_nature_41
+  - first:
+      213: -1289107594838595205
+    second: basic_nature_42
+  - first:
+      213: -1069556191879063304
+    second: basic_nature_43
+  - first:
+      213: -7052996896063493845
+    second: basic_nature_44
+  - first:
+      213: 5774763475476575117
+    second: basic_nature_45
+  - first:
+      213: -8546832528890858468
+    second: basic_nature_46
+  - first:
+      213: -662197249343737057
+    second: basic_nature_47
+  - first:
+      213: -7157425878274238088
+    second: basic_nature_48
+  - first:
+      213: 5354073027305408253
+    second: basic_nature_49
+  - first:
+      213: 7569003935733571037
+    second: basic_nature_50
+  - first:
+      213: -4839968605476658911
+    second: basic_nature_51
+  - first:
+      213: -849219643596858538
+    second: basic_nature_52
+  - first:
+      213: 2313286712846804442
+    second: basic_nature_53
+  - first:
+      213: 5974047038678109620
+    second: basic_nature_54
+  - first:
+      213: 906374021550918255
+    second: basic_nature_55
+  - first:
+      213: -7480235455901285434
+    second: basic_nature_56
+  - first:
+      213: 7107196588227628747
+    second: basic_nature_57
+  - first:
+      213: 2334308397073451058
+    second: basic_nature_58
+  - first:
+      213: -1376843229240110826
+    second: basic_nature_59
+  - first:
+      213: 5095049779394763140
+    second: basic_nature_60
+  - first:
+      213: -2739897103511241125
+    second: basic_nature_61
+  - first:
+      213: -5670201084989786526
+    second: basic_nature_62
+  - first:
+      213: -5105113215961064774
+    second: basic_nature_63
+  - first:
+      213: 8286465876840546467
+    second: basic_nature_64
+  - first:
+      213: 7090526420393469997
+    second: basic_nature_65
+  - first:
+      213: -5907583059094832690
+    second: basic_nature_66
+  - first:
+      213: 5939420081549314664
+    second: basic_nature_67
+  - first:
+      213: -3465616071860060384
+    second: basic_nature_68
+  - first:
+      213: -5238499497653147679
+    second: basic_nature_69
+  - first:
+      213: 4655368435767520558
+    second: basic_nature_70
+  - first:
+      213: 5626940550341486400
+    second: basic_nature_71
+  - first:
+      213: 7589460332629827203
+    second: basic_nature_72
+  - first:
+      213: 9101922717185638181
+    second: basic_nature_73
+  - first:
+      213: 8322414659914901320
+    second: basic_nature_74
+  - first:
+      213: 6996566816338993563
+    second: basic_nature_75
+  - first:
+      213: -8363212042419372492
+    second: basic_nature_76
+  - first:
+      213: -2804955783477543596
+    second: basic_nature_77
+  - first:
+      213: -1987925580899199759
+    second: basic_nature_78
+  - first:
+      213: -5446175775903849840
+    second: basic_nature_79
+  - first:
+      213: -8194429876265033966
+    second: basic_nature_80
+  - first:
+      213: -1784769360795105448
+    second: basic_nature_81
+  - first:
+      213: 3790877809900049305
+    second: basic_nature_82
+  - first:
+      213: 5464004809759062428
+    second: basic_nature_83
+  - first:
+      213: -8418996081648012877
+    second: basic_nature_84
+  - first:
+      213: -49971635085633955
+    second: basic_nature_85
+  - first:
+      213: -3437184980022871900
+    second: basic_nature_86
+  - first:
+      213: -465574559448002392
+    second: basic_nature_87
+  - first:
+      213: -603975616126910708
+    second: basic_nature_88
+  - first:
+      213: 6124564018261898884
+    second: basic_nature_89
+  - first:
+      213: 2712944676691044279
+    second: basic_nature_90
+  - first:
+      213: -4168507122644979840
+    second: basic_nature_91
+  - first:
+      213: 1486474005571476057
+    second: basic_nature_92
+  - first:
+      213: 1957521304404865820
+    second: basic_nature_93
+  - first:
+      213: -197438245045172721
+    second: basic_nature_94
+  - first:
+      213: 2484956324187144687
+    second: basic_nature_95
+  - first:
+      213: -8099241225475390628
+    second: basic_nature_96
+  - first:
+      213: 9044242275667970791
+    second: basic_nature_97
+  - first:
+      213: -1931077418789035474
+    second: basic_nature_98
+  - first:
+      213: 8786289170482087826
+    second: basic_nature_99
+  - first:
+      213: 8165597281229883799
+    second: basic_nature_100
+  - first:
+      213: 3953399421524050571
+    second: basic_nature_101
+  - first:
+      213: -7526298200819696000
+    second: basic_nature_102
+  - first:
+      213: -8380827859188122360
+    second: basic_nature_103
+  - first:
+      213: 4732467301525145472
+    second: basic_nature_104
+  - first:
+      213: 2581554445962284683
+    second: basic_nature_105
+  - first:
+      213: 4153548151190920940
+    second: basic_nature_106
+  - first:
+      213: 7821215603091298754
+    second: basic_nature_107
+  - first:
+      213: -5685682918809222430
+    second: basic_nature_108
+  - first:
+      213: 5124017288806485555
+    second: basic_nature_109
+  - first:
+      213: 1569917747983492095
+    second: basic_nature_110
+  - first:
+      213: 6075599167497528224
+    second: basic_nature_111
+  - first:
+      213: 6943963797201834487
+    second: basic_nature_112
+  - first:
+      213: 2105619808875005712
+    second: basic_nature_113
+  - first:
+      213: 9198889593776486401
+    second: basic_nature_114
+  - first:
+      213: 5072846488024640495
+    second: basic_nature_115
+  - first:
+      213: -575308897388831716
+    second: basic_nature_116
+  - first:
+      213: -7331287996194612293
+    second: basic_nature_117
+  - first:
+      213: -8169883574472854065
+    second: basic_nature_118
+  - first:
+      213: -9092188181463954790
+    second: basic_nature_119
+  - first:
+      213: -3521235441825847254
+    second: basic_nature_120
+  - first:
+      213: 6216793662670885515
+    second: basic_nature_121
+  - first:
+      213: -6967912431359151520
+    second: basic_nature_122
+  - first:
+      213: 4991711091383434673
+    second: basic_nature_123
+  - first:
+      213: -5987765331156017876
+    second: basic_nature_124
+  - first:
+      213: 3071527464754714655
+    second: basic_nature_125
+  - first:
+      213: 3490049620958057656
+    second: basic_nature_126
+  - first:
+      213: -5678887572879410344
+    second: basic_nature_127
+  - first:
+      213: -1325286198518789214
+    second: basic_nature_128
+  - first:
+      213: 2434109309876760738
+    second: basic_nature_129
+  - first:
+      213: 1136873740720588217
+    second: basic_nature_130
+  - first:
+      213: -7678258690848161917
+    second: basic_nature_131
+  - first:
+      213: 5454086238730580909
+    second: basic_nature_132
+  - first:
+      213: -4736228773343470620
+    second: basic_nature_133
+  - first:
+      213: -8119763625357330539
+    second: basic_nature_134
+  - first:
+      213: 9007450638802699501
+    second: basic_nature_135
+  - first:
+      213: 3680427416096411904
+    second: basic_nature_136
+  - first:
+      213: -5201615216437470225
+    second: basic_nature_137
+  - first:
+      213: 550761377761659232
+    second: basic_nature_138
+  - first:
+      213: 3023292352673525109
+    second: basic_nature_139
+  - first:
+      213: -4622007028396006647
+    second: basic_nature_140
+  - first:
+      213: 6198982166571899523
+    second: basic_nature_141
+  - first:
+      213: 1335831189100014443
+    second: basic_nature_142
+  - first:
+      213: 4896378041099743710
+    second: basic_nature_143
+  - first:
+      213: 6013267661815384137
+    second: basic_nature_144
+  - first:
+      213: 4879155437409851713
+    second: basic_nature_145
+  - first:
+      213: 6574258584792020202
+    second: basic_nature_146
+  - first:
+      213: 4593363202073108402
+    second: basic_nature_147
+  - first:
+      213: -2809096800800294612
+    second: basic_nature_148
+  - first:
+      213: -3218896770798977823
+    second: basic_nature_149
+  - first:
+      213: 3162373889314817104
+    second: basic_nature_150
+  - first:
+      213: -5341995507122955909
+    second: basic_nature_151
+  - first:
+      213: -1233784933822270302
+    second: basic_nature_152
+  - first:
+      213: 7346642423863840857
+    second: basic_nature_153
+  - first:
+      213: -6006777356154890695
+    second: basic_nature_154
+  - first:
+      213: -6548020766985512092
+    second: basic_nature_155
+  - first:
+      213: -821799742879268955
+    second: basic_nature_156
+  - first:
+      213: 2992773903319069823
+    second: basic_nature_157
+  - first:
+      213: -7241447698126771614
+    second: basic_nature_158
+  - first:
+      213: -7076943234691876523
+    second: basic_nature_159
+  - first:
+      213: -6414742271665448419
+    second: basic_nature_160
+  - first:
+      213: -6516684588356893990
+    second: basic_nature_161
+  - first:
+      213: -3095242186352391471
+    second: basic_nature_162
+  - first:
+      213: 107303932202582093
+    second: basic_nature_163
+  - first:
+      213: 5807919165929382361
+    second: basic_nature_164
+  - first:
+      213: 7860736553512096248
+    second: basic_nature_165
+  - first:
+      213: 7723305524798395658
+    second: basic_nature_166
+  - first:
+      213: 1168405178300067193
+    second: basic_nature_167
+  - first:
+      213: 5358607196499319538
+    second: basic_nature_168
+  - first:
+      213: 7374213540511104477
+    second: basic_nature_169
+  - first:
+      213: -7201498490740171924
+    second: basic_nature_170
+  - first:
+      213: -4127645756748330500
+    second: basic_nature_171
+  - first:
+      213: 5458399078058988128
+    second: basic_nature_172
+  - first:
+      213: 7934050893867557807
+    second: basic_nature_173
+  - first:
+      213: -9011388006896307186
+    second: basic_nature_174
+  - first:
+      213: 3059483711418484889
+    second: basic_nature_175
+  - first:
+      213: 7841522695608877491
+    second: basic_nature_176
+  - first:
+      213: 2819791370141679989
+    second: basic_nature_177
+  - first:
+      213: -5876748309344229874
+    second: basic_nature_178
+  - first:
+      213: -1819379666220172038
+    second: basic_nature_179
+  - first:
+      213: 612066458300626890
+    second: basic_nature_180
+  - first:
+      213: -873776257258626800
+    second: basic_nature_181
+  - first:
+      213: -2375140358085329627
+    second: basic_nature_182
+  - first:
+      213: 4151280504733473704
+    second: basic_nature_183
+  - first:
+      213: 2841705203368888015
+    second: basic_nature_184
+  - first:
+      213: -7225105525731243152
+    second: basic_nature_185
+  - first:
+      213: 222988912070540433
+    second: basic_nature_186
+  - first:
+      213: 7463310795160165379
+    second: basic_nature_187
+  - first:
+      213: 1138753524641045487
+    second: basic_nature_188
+  - first:
+      213: -4115085567399565173
+    second: basic_nature_189
+  - first:
+      213: -6658240101508416381
+    second: basic_nature_190
+  - first:
+      213: -5290892198901351281
+    second: basic_nature_191
+  - first:
+      213: 605983004065988159
+    second: basic_nature_192
+  - first:
+      213: -5993481389534988930
+    second: basic_nature_193
+  - first:
+      213: -3765074711203247355
+    second: basic_nature_194
+  - first:
+      213: -3894414343807303900
+    second: basic_nature_195
+  - first:
+      213: -7181745137613465830
+    second: basic_nature_196
+  - first:
+      213: -5549052851123702480
+    second: basic_nature_197
+  - first:
+      213: 1949659612907570506
+    second: basic_nature_198
+  - first:
+      213: 829082231850258820
+    second: basic_nature_199
+  - first:
+      213: -2957891647221150707
+    second: basic_nature_200
+  - first:
+      213: 5840981902520530718
+    second: basic_nature_201
+  - first:
+      213: -7626498997679108440
+    second: basic_nature_202
+  - first:
+      213: 5634431603372889956
+    second: basic_nature_203
+  - first:
+      213: 3482301356389976472
+    second: basic_nature_204
+  - first:
+      213: 3712347947006134744
+    second: basic_nature_205
+  - first:
+      213: 4202761229891167584
+    second: basic_nature_206
+  - first:
+      213: 8333775132702547524
+    second: basic_nature_207
+  - first:
+      213: -2189730224920819896
+    second: basic_nature_208
+  - first:
+      213: 9013945022493043613
+    second: basic_nature_209
+  - first:
+      213: -2883615071428272921
+    second: basic_nature_210
+  - first:
+      213: 4141038497467003436
+    second: basic_nature_211
+  - first:
+      213: -5372755073592630125
+    second: basic_nature_212
+  - first:
+      213: 9048150268809607540
+    second: basic_nature_213
+  - first:
+      213: 1943930498652883024
+    second: basic_nature_214
+  - first:
+      213: 5735569975116372827
+    second: basic_nature_215
+  - first:
+      213: 5096649326322085401
+    second: basic_nature_216
+  - first:
+      213: 6595743208989007514
+    second: basic_nature_217
+  - first:
+      213: -8558546072550170433
+    second: basic_nature_218
+  - first:
+      213: 4990262951962418840
+    second: basic_nature_219
+  - first:
+      213: 798501012112355907
+    second: basic_nature_220
+  - first:
+      213: 9061054730727153608
+    second: basic_nature_221
+  - first:
+      213: -7500254767393983638
+    second: basic_nature_222
+  - first:
+      213: 4579260588802941718
+    second: basic_nature_223
+  - first:
+      213: 5548987520356103339
+    second: basic_nature_224
+  - first:
+      213: -6566001408323523257
+    second: basic_nature_225
+  - first:
+      213: -5983281009954604939
+    second: basic_nature_226
+  - first:
+      213: -411456322457272859
+    second: basic_nature_227
+  - first:
+      213: -7350722611923866586
+    second: basic_nature_228
+  - first:
+      213: 3458897018600288351
+    second: basic_nature_229
+  - first:
+      213: 52014961227520406
+    second: basic_nature_230
+  - first:
+      213: 537839896566674916
+    second: basic_nature_231
+  - first:
+      213: -850158703206580499
+    second: basic_nature_232
+  - first:
+      213: -4875519751264929194
+    second: basic_nature_233
+  - first:
+      213: -4479331400581020590
+    second: basic_nature_234
+  - first:
+      213: -7629519393182160041
+    second: basic_nature_235
+  - first:
+      213: 3170451441167101819
+    second: basic_nature_236
+  - first:
+      213: 2498499372139943426
+    second: basic_nature_237
+  - first:
+      213: -6792396707389865681
+    second: basic_nature_238
+  - first:
+      213: 1826164492467114703
+    second: basic_nature_239
+  - first:
+      213: 1915449918525407920
+    second: basic_nature_240
+  - first:
+      213: -4591662300069374856
+    second: basic_nature_241
+  - first:
+      213: -2450459268761559793
+    second: basic_nature_242
+  - first:
+      213: -2477892918829866040
+    second: basic_nature_243
+  - first:
+      213: 8043954455810966968
+    second: basic_nature_244
+  - first:
+      213: 1883577901909768634
+    second: basic_nature_245
+  - first:
+      213: -5403793106465725884
+    second: basic_nature_246
+  - first:
+      213: 9002271463167951596
+    second: basic_nature_247
+  - first:
+      213: -5832562783621521803
+    second: basic_nature_248
+  - first:
+      213: -1700081805948101719
+    second: basic_nature_249
+  - first:
+      213: -2685547006496559112
+    second: basic_nature_250
+  - first:
+      213: 6089489901939333485
+    second: basic_nature_251
+  - first:
+      213: 5212650281781266784
+    second: basic_nature_252
+  - first:
+      213: -2442243957781546642
+    second: basic_nature_253
+  - first:
+      213: 2987569679538112969
+    second: basic_nature_254
+  - first:
+      213: 6538401028272552583
+    second: basic_nature_255
+  - first:
+      213: 6030155573766963538
+    second: basic_nature_256
+  - first:
+      213: 4378047634902929865
+    second: basic_nature_257
+  - first:
+      213: -420799546256972099
+    second: basic_nature_258
+  - first:
+      213: 5989736552899735972
+    second: basic_nature_259
+  - first:
+      213: -8422355558673817513
+    second: basic_nature_260
+  - first:
+      213: 4351227746230738758
+    second: basic_nature_261
+  - first:
+      213: 3418955545708500907
+    second: basic_nature_262
+  - first:
+      213: 8077018682834310029
+    second: basic_nature_263
+  - first:
+      213: -7398897706520000192
+    second: basic_nature_264
+  - first:
+      213: -6240723033190081158
+    second: basic_nature_265
+  - first:
+      213: -1191247110730986900
+    second: basic_nature_266
+  - first:
+      213: -4931674976412219556
+    second: basic_nature_267
+  - first:
+      213: 5763586719251040155
+    second: basic_nature_268
+  - first:
+      213: -4837985851506565358
+    second: basic_nature_269
+  - first:
+      213: -4897053715553745975
+    second: basic_nature_270
+  - first:
+      213: 2699294214408629361
+    second: basic_nature_271
+  - first:
+      213: 8589839781405183071
+    second: basic_nature_272
+  - first:
+      213: 4863550541934237667
+    second: basic_nature_273
+  - first:
+      213: 2625353086522884551
+    second: basic_nature_274
+  - first:
+      213: -9183703082011542220
+    second: basic_nature_275
+  - first:
+      213: 9113986268546683756
+    second: basic_nature_276
+  - first:
+      213: -876216589925160154
+    second: basic_nature_277
+  - first:
+      213: 4568407160017075993
+    second: basic_nature_278
+  - first:
+      213: -985189692359045516
+    second: basic_nature_279
+  - first:
+      213: 3366180807638331574
+    second: basic_nature_280
+  - first:
+      213: 9004169984137820910
+    second: basic_nature_281
+  - first:
+      213: -8685427112060243306
+    second: basic_nature_282
+  - first:
+      213: -7591735285603772576
+    second: basic_nature_283
+  - first:
+      213: -8041719538073133351
+    second: basic_nature_284
+  - first:
+      213: 2489564753903486837
+    second: basic_nature_285
+  - first:
+      213: -2282406070834165343
+    second: basic_nature_286
+  - first:
+      213: 5813306558679615514
+    second: basic_nature_287
+  - first:
+      213: -59861465039699810
+    second: basic_nature_288
+  - first:
+      213: 5347615351200512866
+    second: basic_nature_289
+  - first:
+      213: 1842208466287659528
+    second: basic_nature_290
+  - first:
+      213: -8423883916067699274
+    second: basic_nature_291
+  - first:
+      213: -5800420360505356100
+    second: basic_nature_292
+  - first:
+      213: -2041120672001699126
+    second: basic_nature_293
+  - first:
+      213: 2025952073995307147
+    second: basic_nature_294
+  - first:
+      213: 6767182740610635977
+    second: basic_nature_295
+  - first:
+      213: 3060240837944982320
+    second: basic_nature_296
+  - first:
+      213: -2889021262627894654
+    second: basic_nature_297
+  - first:
+      213: -6960174750949179799
+    second: basic_nature_298
+  - first:
+      213: -1563911487051752388
+    second: basic_nature_299
+  - first:
+      213: -8538490946840925890
+    second: basic_nature_300
+  - first:
+      213: -812013067392775001
+    second: basic_nature_301
+  - first:
+      213: -5945846481846840660
+    second: basic_nature_302
+  - first:
+      213: 134011942680445189
+    second: basic_nature_303
+  - first:
+      213: -3442434185903924095
+    second: basic_nature_304
+  - first:
+      213: -8869402686921921786
+    second: basic_nature_305
+  - first:
+      213: 8475525954160829233
+    second: basic_nature_306
+  - first:
+      213: 3078123998138603347
+    second: basic_nature_307
+  - first:
+      213: -4767858516164402801
+    second: basic_nature_308
+  - first:
+      213: -186728690237268233
+    second: basic_nature_309
+  - first:
+      213: 2215631456870315322
+    second: basic_nature_310
+  - first:
+      213: -8454446492007104831
+    second: basic_nature_311
+  - first:
+      213: -5966682244636541857
+    second: basic_nature_312
+  - first:
+      213: -8001107675481344616
+    second: basic_nature_313
+  - first:
+      213: -6365503013865793713
+    second: basic_nature_314
+  - first:
+      213: 984789518051974052
+    second: basic_nature_315
+  - first:
+      213: 3669611279604320061
+    second: basic_nature_316
+  - first:
+      213: 7785161073405243736
+    second: basic_nature_317
+  - first:
+      213: 1770286769158637311
+    second: basic_nature_318
+  - first:
+      213: 6551053752578220055
+    second: basic_nature_319
+  - first:
+      213: -1350883647268066397
+    second: basic_nature_320
+  - first:
+      213: 3419795604913592762
+    second: basic_nature_321
+  - first:
+      213: 2566370235976177780
+    second: basic_nature_322
+  - first:
+      213: 3621649056505666605
+    second: basic_nature_323
+  - first:
+      213: 6117759828058041426
+    second: basic_nature_324
+  - first:
+      213: 9066495376324900239
+    second: basic_nature_325
+  - first:
+      213: -2299834590627056383
+    second: basic_nature_326
+  - first:
+      213: 8252007511333445719
+    second: basic_nature_327
+  - first:
+      213: -7711672244834209978
+    second: basic_nature_328
+  - first:
+      213: -226157234957404064
+    second: basic_nature_329
+  - first:
+      213: -18132709205899399
+    second: basic_nature_330
+  - first:
+      213: 8105746901692045714
+    second: basic_nature_331
+  - first:
+      213: 4387331957665209039
+    second: basic_nature_332
+  - first:
+      213: -1636486231741521989
+    second: basic_nature_333
+  - first:
+      213: 1447061281131224316
+    second: basic_nature_334
+  - first:
+      213: -4719580624730583220
+    second: basic_nature_335
+  - first:
+      213: 95531391114746975
+    second: basic_nature_336
+  - first:
+      213: -8530820130215887869
+    second: basic_nature_337
+  - first:
+      213: 3394203688048289206
+    second: basic_nature_338
+  - first:
+      213: -2381882730412006154
+    second: basic_nature_339
+  - first:
+      213: 7895028951953432822
+    second: basic_nature_340
+  - first:
+      213: 3480348751781920508
+    second: basic_nature_341
+  - first:
+      213: -3452348908155293774
+    second: basic_nature_342
+  - first:
+      213: 8151070248298271315
+    second: basic_nature_343
+  - first:
+      213: 8228574500092248417
+    second: basic_nature_344
+  - first:
+      213: 6812953561257299564
+    second: basic_nature_345
+  - first:
+      213: 1220838911338159877
+    second: basic_nature_346
+  - first:
+      213: -8099740191007920911
+    second: basic_nature_347
+  - first:
+      213: 7988741022593609676
+    second: basic_nature_348
+  - first:
+      213: 6814247544823180699
+    second: basic_nature_349
+  - first:
+      213: 5689657149502945096
+    second: basic_nature_350
+  - first:
+      213: -7647480964878949219
+    second: basic_nature_351
+  - first:
+      213: -9194927283201751617
+    second: basic_nature_352
+  - first:
+      213: -836711533892072223
+    second: basic_nature_353
+  - first:
+      213: 3782025848950934272
+    second: basic_nature_354
+  - first:
+      213: -3981571069874126674
+    second: basic_nature_355
+  - first:
+      213: 6400694635353404808
+    second: basic_nature_356
+  - first:
+      213: -8175921888144932700
+    second: basic_nature_357
+  - first:
+      213: -755272600429514773
+    second: basic_nature_358
+  - first:
+      213: -5475002318307669125
+    second: basic_nature_359
+  - first:
+      213: -898232039420222167
+    second: basic_nature_360
+  - first:
+      213: -4672737422052694087
+    second: basic_nature_361
+  - first:
+      213: 7852573959769903682
+    second: basic_nature_362
+  - first:
+      213: -6414482789947734846
+    second: basic_nature_363
+  - first:
+      213: 6246175619701091809
+    second: basic_nature_364
+  - first:
+      213: 8174191804556531634
+    second: basic_nature_365
+  - first:
+      213: -1012791403595376996
+    second: basic_nature_366
+  - first:
+      213: -756868502963747354
+    second: basic_nature_367
+  - first:
+      213: 833679122371879553
+    second: basic_nature_368
+  - first:
+      213: -5628621047251819641
+    second: basic_nature_369
+  - first:
+      213: -1750788594774051831
+    second: basic_nature_370
+  - first:
+      213: -8355695394670948554
+    second: basic_nature_371
+  - first:
+      213: -9187124938820242007
+    second: basic_nature_372
+  - first:
+      213: -1334084667621173192
+    second: basic_nature_373
+  - first:
+      213: -2640200804362296379
+    second: basic_nature_374
+  - first:
+      213: 2605570150335560105
+    second: basic_nature_375
+  - first:
+      213: 6947587323796185495
+    second: basic_nature_376
+  - first:
+      213: 91695566759967984
+    second: basic_nature_377
+  - first:
+      213: 8386823642201722838
+    second: basic_nature_378
+  - first:
+      213: 5102571060239891793
+    second: basic_nature_379
+  - first:
+      213: 388392468115291931
+    second: basic_nature_380
+  - first:
+      213: -665687640083665348
+    second: basic_nature_381
+  - first:
+      213: -6495890940039576568
+    second: basic_nature_382
+  - first:
+      213: -8819380951028602037
+    second: basic_nature_383
+  - first:
+      213: 3837030044736937051
+    second: basic_nature_384
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 16
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: basic_nature_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad12154c2838862d0800000000000000
+      internalID: -3285231330504138278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb230136dad9fd30800000000000000
+      internalID: 4465841118994705390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2c68b3fa3ff1c90800000000000000
+      internalID: -7196765745571249425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d55a00231ced7f0800000000000000
+      internalID: -585818481008222903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5bee8013f309f30800000000000000
+      internalID: 4580230300871603663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcefdfb8f73430930800000000000000
+      internalID: 4108201500180610763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f234a26d0101435e0800000000000000
+      internalID: -1930900675736485073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edd25c0bbf1413b0800000000000000
+      internalID: -5542770353160135191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd40db0d06acdc90800000000000000
+      internalID: -7143652333953462796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9331118dd067379f0800000000000000
+      internalID: -471903734112120007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7344c6e14ba3d920800000000000000
+      internalID: 3013940875173839741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e788e6b80ed4260800000000000000
+      internalID: 7083564678383173186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe4727a8b994a070800000000000000
+      internalID: 8116781446785879794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041d0dcba73881820800000000000000
+      internalID: 2889203724135223616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe57c2d45d364290800000000000000
+      internalID: -7906564661279498511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6968bad51df6696b0800000000000000
+      internalID: -5289917767289698666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e525825090dce90800000000000000
+      internalID: -7003931927735280104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8f607b8344c23c0800000000000000
+      internalID: -4383053326958790424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05825fc62c6de430800000000000000
+      internalID: 3813823373395526927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f3ced0503a08bd0800000000000000
+      internalID: -2629922940280619150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc87c422a1557ab0800000000000000
+      internalID: -5011009253536199473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e26488382260940800000000000000
+      internalID: 5261931162951364153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead25ecf3b24eae00800000000000000
+      internalID: 1057856303288102318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec28fb747bd8ee5b0800000000000000
+      internalID: -5337172690065194290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c79456ab9440aa50800000000000000
+      internalID: 6530294894988400576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c708ec7c3542c5e0800000000000000
+      internalID: -1890872767446251575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8582ed02e372b720800000000000000
+      internalID: 2860476128066438538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedf54ca8ab1bf640800000000000000
+      internalID: 5114712213068053994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccdff949a4e86bd0800000000000000
+      internalID: -2636606166083314485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be88ce3ae020de60800000000000000
+      internalID: 7984918329775656628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddeab90cd1af47620800000000000000
+      internalID: 2771114676432121565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c7f053ae9a56ad0800000000000000
+      internalID: -2709572777415836660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a09920c1483a6c50800000000000000
+      internalID: 6659196854068678817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7feefcaeef359fdd0800000000000000
+      internalID: -2451836167800230153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658a118340b5cd040800000000000000
+      internalID: 4673710586982410326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ad34a364ab90ef0800000000000000
+      internalID: -141377102497457628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc7eb51bd3f55c90800000000000000
+      internalID: -7181565908484195123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047e937ddf8f21b80800000000000000
+      internalID: -8425398183735466176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e49323ba4f88f960800000000000000
+      internalID: 7636010719202481379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9971f547433b960800000000000000
+      internalID: 7616489069229873636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faa5d97204b67030800000000000000
+      internalID: 3492176483799378680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_41
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd1a0d5e8de8c370800000000000000
+      internalID: 8343179505405926859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b792364f87b2c1ee0800000000000000
+      internalID: -1289107594838595205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f89abb6f4c2821f0800000000000000
+      internalID: -1069556191879063304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29e33001b8be1e90800000000000000
+      internalID: -7052996896063493845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d837ea1f8c4142050800000000000000
+      internalID: 5774763475476575117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14f4b8191d836980800000000000000
+      internalID: -8546832528890858468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1330a53c176fc6f0800000000000000
+      internalID: -662197249343737057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879964bd517bbac90800000000000000
+      internalID: -7157425878274238088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df60a0e1d0d7d4a40800000000000000
+      internalID: 5354073027305408253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddddeec2af08a0960800000000000000
+      internalID: 7569003935733571037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1216582523af4dcb0800000000000000
+      internalID: -4839968605476658911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b1027cb37f634f0800000000000000
+      internalID: -849219643596858538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad56dde42027a1020800000000000000
+      internalID: 2313286712846804442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd02eb312418e250800000000000000
+      internalID: 5974047038678109620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a4f24de56149c00800000000000000
+      internalID: 906374021550918255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_56
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3c8be1c7dd03890800000000000000
+      internalID: -7480235455901285434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce0d2634a5d1a260800000000000000
+      internalID: 7107196588227628747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23846c39e11256020800000000000000
+      internalID: 2334308397073451058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_59
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611ddb9b06874ece0800000000000000
+      internalID: -1376843229240110826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489d1c597c045b640800000000000000
+      internalID: 5095049779394763140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e3718d91ee9f9d0800000000000000
+      internalID: -2739897103511241125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266362cb7266f41b0800000000000000
+      internalID: -5670201084989786526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba1d70049ef629b0800000000000000
+      internalID: -5105113215961064774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a00a78bfc07ff270800000000000000
+      internalID: 8286465876840546467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28231e463c966260800000000000000
+      internalID: 7090526420393469997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec97989e18c040ea0800000000000000
+      internalID: -5907583059094832690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a8194881f0d6250800000000000000
+      internalID: 5939420081549314664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f75e45b88a7efc0800000000000000
+      internalID: -3465616071860060384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7625e267c1d47b0800000000000000
+      internalID: -5238499497653147679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d2d785de03b9040800000000000000
+      internalID: 4655368435767520558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_71
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04768532e98e61e40800000000000000
+      internalID: 5626940550341486400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e915b36fd235960800000000000000
+      internalID: 7589460332629827203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_73
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f78eabc76805e70800000000000000
+      internalID: 9101922717185638181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8472bb50a082f7370800000000000000
+      internalID: 8322414659914901320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91eb27337cc81160800000000000000
+      internalID: 6996566816338993563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_76
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ef25625f6efeb80800000000000000
+      internalID: -8363212042419372492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45db423839bc219d0800000000000000
+      internalID: -2804955783477543596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_78
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4579677387964e0800000000000000
+      internalID: -1987925580899199759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092e9e4acfb4b64b0800000000000000
+      internalID: -5446175775903849840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_80
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fdf588179874e80800000000000000
+      internalID: -8194429876265033966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8578ec3f8b93b37e0800000000000000
+      internalID: -1784769360795105448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_82
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993d00e7847eb9430800000000000000
+      internalID: 3790877809900049305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_83
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99f6b8cc6b04db40800000000000000
+      internalID: 5464004809759062428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_84
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1f6f36ba7b92b80800000000000000
+      internalID: -8418996081648012877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5610e900177e4ff0800000000000000
+      internalID: -49971635085633955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_86
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8bd6eb87aac40d0800000000000000
+      internalID: -3437184980022871900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a094a7a762f989f0800000000000000
+      internalID: -465574559448002392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_88
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ff1cb806f3e97f0800000000000000
+      internalID: -603975616126910708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486b3a87682def450800000000000000
+      internalID: 6124564018261898884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7e4754fc056a520800000000000000
+      internalID: 2712944676691044279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_91
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f6f0f8bdc7626c0800000000000000
+      internalID: -4168507122644979840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a90fd7b3401a410800000000000000
+      internalID: 1486474005571476057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_93
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13bf4541438a2b10800000000000000
+      internalID: 1957521304404865820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06810356fe824df0800000000000000
+      internalID: -197438245045172721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_95
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe109896c965c7220800000000000000
+      internalID: 2484956324187144687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_96
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53075d5407b99f80800000000000000
+      internalID: -8099241225475390628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_97
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea82c76e6a938d70800000000000000
+      internalID: 9044242275667970791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e222d43a15f6335e0800000000000000
+      internalID: -1931077418789035474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2974274e27b2fe970800000000000000
+      internalID: 8786289170482087826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7994a9ec677025170800000000000000
+      internalID: 8165597281229883799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_101
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b820d2fe3db4dd630800000000000000
+      internalID: 3953399421524050571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08efa7299a73d8790800000000000000
+      internalID: -7526298200819696000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_103
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80df461377151bb80800000000000000
+      internalID: -8380827859188122360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_104
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087ce82efe91da140800000000000000
+      internalID: 4732467301525145472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e89e7471683d320800000000000000
+      internalID: 2581554445962284683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_106
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee173d790e54a930800000000000000
+      internalID: 4153548151190920940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_107
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9dff5072a8a8c60800000000000000
+      internalID: 7821215603091298754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_108
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2ced662856811b0800000000000000
+      internalID: -5685682918809222430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e4542739a2c1740800000000000000
+      internalID: 5124017288806485555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_110
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3232fbfd779c510800000000000000
+      internalID: 1569917747983492095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_111
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a36950c04dd05450800000000000000
+      internalID: 6075599167497528224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_112
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f15369684aed5060800000000000000
+      internalID: 6943963797201834487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01745046f0aa83d10800000000000000
+      internalID: 2105619808875005712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_114
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108b515095509af70800000000000000
+      internalID: 9198889593776486401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_115
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febebc6f00f566640800000000000000
+      internalID: 5072846488024640495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_116
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c540f1b971408f0800000000000000
+      internalID: -575308897388831716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb1cb80968024a90800000000000000
+      internalID: -7331287996194612293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_118
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc53f37cc2ebe9e80800000000000000
+      internalID: -8169883574472854065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a06dc750f02d180800000000000000
+      internalID: -9092188181463954790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28647f950f022fc0800000000000000
+      internalID: -3521235441825847254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82d561f5ec764650800000000000000
+      internalID: 6216793662670885515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0623fceaf800d4f90800000000000000
+      internalID: -6967912431359151520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd79475ace164540800000000000000
+      internalID: 4991711091383434673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ddb06e72f27eca0800000000000000
+      internalID: -5987765331156017876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_125
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f189f8e94f140aa20800000000000000
+      internalID: 3071527464754714655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b411b1a3a52f6030800000000000000
+      internalID: 3490049620958057656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_127
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b742b27d98031b0800000000000000
+      internalID: -5678887572879410344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_128
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab4f8f5933ab9de0800000000000000
+      internalID: -1325286198518789214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_129
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0fca75581b7c120800000000000000
+      internalID: 2434109309876760738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_130
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5ce1ec4acf6cf00800000000000000
+      internalID: 1136873740720588217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_131
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f707ed668517590800000000000000
+      internalID: -7678258690848161917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3f1e1898ec0bb40800000000000000
+      internalID: 5454086238730580909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_133
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebd0e53609854eb0800000000000000
+      internalID: -4736228773343470620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_134
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597307ac00ec05f80800000000000000
+      internalID: -8119763625357330539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de443b9e1a4e00d70800000000000000
+      internalID: 9007450638802699501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_136
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00119063c31831330800000000000000
+      internalID: 3680427416096411904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb5afd158620d7b0800000000000000
+      internalID: -5201615216437470225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_138
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0690d751e82b4a700800000000000000
+      internalID: 550761377761659232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_139
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57da24d6064e4f920800000000000000
+      internalID: 3023292352673525109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_140
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903e81b98155bdfb0800000000000000
+      internalID: -4622007028396006647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_141
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38adf77df65370650800000000000000
+      internalID: 6198982166571899523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_142
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ba1329363d98210800000000000000
+      internalID: 1335831189100014443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_143
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1f5c1e2ed63f340800000000000000
+      internalID: 4896378041099743710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_144
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94889d9241b637350800000000000000
+      internalID: 6013267661815384137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_145
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149dabaf40e36b340800000000000000
+      internalID: 4879155437409851713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_146
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae43718d9557c3b50800000000000000
+      internalID: 6574258584792020202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf1befde77eebf30800000000000000
+      internalID: 4593363202073108402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_148
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29bc98c7551409d0800000000000000
+      internalID: -2809096800800294612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_nature_149
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecffdff07e2453d0800000000000000
+      internalID: -3218896770798977823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
