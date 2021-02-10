@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ground
+    uniqueID: 909826895
+    locked: 0
+  - name: Decorations
+    uniqueID: 1406200085
+    locked: 0
+  - name: Builds
+    uniqueID: 3152082885
+    locked: 0
+  - name: Player
+    uniqueID: 2798138721
+    locked: 0
