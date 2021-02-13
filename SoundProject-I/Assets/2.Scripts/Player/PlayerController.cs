@@ -30,7 +30,7 @@ public class PlayerController : MonoBehaviour
         if(horizontal > 0)
             _sp.flipX = false;
         else if(horizontal < 0)
-            _sp.flipX = true;
+            _sp.flipX = true;   
 
     }
 }
