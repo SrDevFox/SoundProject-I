@@ -34,7 +34,7 @@ public class DialogueController : MonoBehaviour
         callDialogue -= StartDialogue;
     }
 
-    public void RunningDialogue()
+    public void RunningDialogue() 
     {
         index++;
         if(index < propertiesOfDialogue.properties.Count)
@@ -45,7 +45,7 @@ public class DialogueController : MonoBehaviour
 
     void NextPhrase()
     {
-        text.text = GetPhrase();
+        text.text = GetPhrase();          
         iconController.ChangeIcon(propertiesOfDialogue, index);
         iconController.DisableIcon();
     }
